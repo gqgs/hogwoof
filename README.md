@@ -61,3 +61,7 @@ Do **not** use HOGWOOF for:
 HOGWOOF does not preserve photographs.
 
 It preserves **the general idea of photographs**.
+
+## Credits
+
+[Eugene Hogwoff](https://x.com/Senpaisaysbye/status/2095257002066977129/photo/1)
